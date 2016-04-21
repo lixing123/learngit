@@ -4,3 +4,4 @@ hello.
 stupid boss!
 Creating a new branch is quick AND simple.
 add a merge.
+can terminal be more colorful?
